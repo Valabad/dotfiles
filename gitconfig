@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = valentin.abadie@gmail.com
+	name = Valentin Abadie
